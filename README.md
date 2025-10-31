@@ -1,1 +1,1 @@
-Just follow some tutorial on [GeeksforGeeks - Next.js Tutorial](https://www.geeksforgeeks.org/nextjs/nextjs-tutorial/) 
+Just follow some tutorials on [GeeksforGeeks - Next.js Tutorial](https://www.geeksforgeeks.org/nextjs/nextjs-tutorial/) 
